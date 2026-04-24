@@ -529,7 +529,10 @@ i {
     nav #menubtn {
         display: inline;
     }
-
+.holder{
+    display: flex;
+    flex-direction: column;
+}
     .intro {
         display: flex;
         flex-direction: column;
