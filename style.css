@@ -57,6 +57,9 @@ body {
     border-radius: 5px;
     padding: 5px;
     background-color: rgb(164, 158, 158, 0.2);
+    overflow-wrap: break-word;
+    word-break: break-word;
+    min-width: 0;
 }
 
 #abs {
