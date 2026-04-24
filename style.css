@@ -541,6 +541,12 @@ i {
     display: flex;
     flex-direction: column;
 }
+    .solution{
+        width: 100%
+    }
+    .problem{
+        width: 100%
+    }
     .intro {
         display: flex;
         flex-direction: column;
